@@ -14,7 +14,7 @@ Simple tool for installing wads into DOOM + DOOM II for Windows, Currently suppo
 To initiate a launch command its recommend to use CMD or PowerShell.
 
   1) launch cmd (or shift + right click inside the folder and select PowerShell)
-  2) make sure you're at your folder's directory (you can use cd to change the current directory)
+  2) make sure you're at your folder's directory (you can use `cd` to change the current directory)
   3) Type **DOOM** then press **Tab** (It'll autofill the exe's filename for you)
   4) After the typing the exe's filename give one empty **Space** and type any of the following arguments desired:
 
