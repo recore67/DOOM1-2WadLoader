@@ -6,7 +6,7 @@
     <RootNamespace>DOOM1_2WadLoader</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PublishAot>false</PublishAot>
+    <PublishAot>True</PublishAot>
     <InvariantGlobalization>true</InvariantGlobalization>
     <StartupObject>DOOM1_2WadLoader.Program</StartupObject>
     <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
