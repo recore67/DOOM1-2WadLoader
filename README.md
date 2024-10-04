@@ -34,5 +34,5 @@ C:\"DOOM1+2WadLoader.exe" "path to bnetwads folder"
 The repair tool is an included function within the exe to verify existing bnetwad folders and ensure they're functional by reviewing and comparing it's wad and json data respectively.
 
 Conditions applied:
-- Checking weather the folder name matches the stored wad filename
+- Checking whether the folder name matches the stored wad filename
 - Ensuring wad and json file existance for each folder
